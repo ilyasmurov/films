@@ -1,0 +1,67 @@
+{
+"films":[
+	{
+		"title":{
+			"ru":"Догма",
+			"en":"Dogma"
+		},
+		"year":"1999"
+	},
+    {
+        "title":{
+            "ru":"Форсаж 7",
+            "en":"Furious Seven"
+        },
+        "year":"2015"
+    },
+    {
+		"title":{
+			"ru":"Век Адалин",
+			"en":"The Age of Adaline"
+		},
+		"year":"2015"
+	},
+    {
+		"title":{
+			"ru":"Золушка 2000",
+			"en":"Cinderella 2000"
+		},
+		"year":"1977"
+	},
+    {
+		"title":{
+			"ru":"Побег из Шоушенка",
+			"en":"The Shawshank Redemption"
+		},
+		"year":"1994"
+	},
+    {
+		"title":{
+			"ru":"Дедпул",
+			"en":"Deadpool"
+		},
+		"year":"2016"
+	},
+    {
+		"title":{
+			"ru":"Аватар",
+			"en":"Avatar"
+		},
+		"year":"2009"
+	},
+    {
+		"title":{
+			"ru":"Выживший",
+			"en":"The Revenant"
+		},
+		"year":"2015"
+	},
+    {
+		"title":{
+			"ru":"Марсианин",
+			"en":"The Martian"
+		},
+		"year":"2015"
+	}
+	]
+}
